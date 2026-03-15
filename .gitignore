@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+chatbot_env/
+
+# Environment variables
+.env
+
+# Streamlit
+.streamlit/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Model checkpoints (optional)
+*.ckpt
+
+# IDE files
+.vscode/
+.idea/
+
+# Data files (optional)
+*.csv
+*.xlsx
