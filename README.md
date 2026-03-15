@@ -61,7 +61,7 @@ git clone https://github.com/your-username/customer-churn-ai.git
 ### 2️⃣ Navigate into the project folder
 
 ```
-cd customer-churn-ai
+cd ANN classsification
 ```
 
 ### 3️⃣ Install dependencies
@@ -133,16 +133,3 @@ http://localhost:8501
 **Shivesh Bajpai**
 
 AI / Machine Learning Enthusiast
-
-GitHub:
-https://github.com/your-username
-
----
-
-## ⭐ If you like this project
-
-# Consider giving it a ⭐ on GitHub!
-
-# ANN-classification-churn
-
-ANN implementaion
